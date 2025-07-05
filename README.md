@@ -25,7 +25,7 @@ pip install pillow
 ## ⚙️ Exemple d'utilisation dans un script Python
 
 ```python
-from ascii_gif_player import AsciiGifPlayer
+from animation import AsciiGifPlayer
 
 player = AsciiGifPlayer(
     gif_path="chemin/vers/ton.gif",
